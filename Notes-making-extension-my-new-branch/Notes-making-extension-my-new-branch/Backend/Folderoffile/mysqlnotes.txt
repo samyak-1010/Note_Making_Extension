@@ -1,0 +1,30 @@
+Date of file creation: Tue Feb 06 2024 17:50:00 GMT+0530 (India Standard Time) 
+
+ #). What is SQL?+
+ 
+         =>.  SQL is the standard language for dealing with Relational Databases.+
+ 
+         =>.  SQL is used to insert, search, update, and delete database records.+
+ 
+#). How to Use SQL+
+ 
+         =>.  The following SQL statement selects all the records in the "Customers" table:+
+ 
+#). Semicolon after SQL Statements?+
+ 
+         =>.  Some database systems require a semicolon at the end of each SQL statement.+
+ 
+         =>.  Semicolon is the standard way to separate each SQL statement in database systems that allow more than one SQL statement to be executed in the same call to the server.+
+ 
+         =>.  In this tutorial, we will use semicolon at the end of each SQL statement.+
+ 
+#). Some of The Most Important SQL Commands+
+ 
+         =>.  SELECT - extracts data from a database+
+ 
+         =>.  DELETE - deletes data from a database+
+ 
+         =>.  INSERT INTO - inserts new data into a database+
+ 
+         =>.  CREATE DATABASE - creates a new database+
+ 
